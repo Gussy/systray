@@ -1,0 +1,6 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <file alias="heart.svg">../images/heart.svg</file>
+    </qresource>
+</RCC>
